@@ -2,13 +2,13 @@
 
 **A free toolkit for Green Party supporters, built by supporters.**
 
-**What this is:** A single prompt you can paste into any Claude conversation (free or Pro at [claude.ai](https://claude.ai)) to generate a full daily counter-media briefing. No special tools, no automation, no technical knowledge — just copy, paste, and run.
+**What this is:** A single prompt you can paste into any AI assistant with web search — [Claude](https://claude.ai), [ChatGPT](https://chatgpt.com), [Gemini](https://gemini.google.com), [Copilot](https://copilot.microsoft.com), or [Perplexity](https://perplexity.ai) — to generate a full daily counter-media briefing. No special tools, no automation, no technical knowledge — just copy, paste, and run.
 
 **How to use it:**
 1. Copy the entire prompt below (everything inside the bordered block).
-2. Open a new conversation at [claude.ai](https://claude.ai).
+2. Open a new conversation with any AI assistant that has web search.
 3. Paste it in and press Enter.
-4. Claude will search for hostile coverage and build your briefing.
+4. The AI will search for hostile coverage and build your briefing.
 5. If you want to focus on a local candidate or specific issue, edit the `[LOCAL FOCUS]` section before pasting.
 
 ---
@@ -118,13 +118,14 @@ NOTE ON SCOPE: This hostile media monitoring works best for candidates at MP, ma
 
 - **Run it fresh each day** in a new conversation for the cleanest results.
 - **Edit the Local Focus section** to make it relevant to your constituency — this transforms a national briefing into a local campaigning tool.
-- **If Claude's response seems cut short**, reply with: *"Continue — complete all remaining sections in full."*
+- **If the response seems cut short**, reply with: *"Continue — complete all remaining sections in full."*
 - **To get a second briefing in the same conversation** (e.g. an afternoon update), just say: *"Run the briefing again with fresh stories only."* The anti-repetition check will kick in automatically.
-- **Share the prompt** — it works for anyone with access to Claude. No setup, no account linking, no technical knowledge required.
+- **ChatGPT users:** Save this prompt as a [Custom GPT](https://help.openai.com/en/articles/custom-gpts) so you can run it with one click instead of pasting each time. **Gemini users:** Create a [Gem](https://gemini.google.com/gems) for the same effect.
+- **Share the prompt** — it works with any AI assistant that can search the web. No setup, no account linking, no technical knowledge required.
 
 ## What This Doesn't Do
 
-This is a manual prompt, not an automated system. It won't email you, it won't run on a schedule, and it won't remember between conversations. For an automated daily briefing delivered to your inbox, see the companion **Hope Can Win — Cowork Setup Guide**.
+This is a manual prompt, not an automated system. It won't email you, it won't run on a schedule, and it won't remember between conversations. For an automated daily briefing delivered to your inbox, see the companion **Hope Can Win — Cowork Setup Guide** (requires Claude's Cowork mode).
 
 ---
 
