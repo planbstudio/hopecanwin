@@ -8,9 +8,9 @@ Built by supporters, for supporters. Hope Can Win scans hostile right-wing media
 
 ## What's in this toolkit
 
-### [The Prompt](green-party-counter-media-prompt.md) — for anyone with Claude
+### [The Prompt](green-party-counter-media-prompt.md) — works with any AI
 
-A single copyable prompt you paste into [claude.ai](https://claude.ai) (free or Pro). No automation, no setup — just paste and run. You get:
+A single copyable prompt you paste into any AI assistant with web search — [Claude](https://claude.ai), [ChatGPT](https://chatgpt.com), [Gemini](https://gemini.google.com), [Copilot](https://copilot.microsoft.com), or [Perplexity](https://perplexity.ai). No automation, no setup — just paste and run. You get:
 
 - 7-outlet hostile media scan (GB News, Sun, Daily Mail, Telegraph, Express, Spectator, LBC)
 - Story-by-story rebuttals with facts and quotable response lines
@@ -18,9 +18,9 @@ A single copyable prompt you paste into [claude.ai](https://claude.ai) (free or 
 - A full Supporters Content Kit (TikTok, Twitter/X, Instagram, Facebook)
 - A priority action for the day
 
-### [The Cowork Guide](green-party-cowork-setup-guide.md) — for automated daily briefings
+### [The Cowork Guide](green-party-cowork-setup-guide.md) — automated daily briefings (Claude only)
 
-A setup guide for Claude Cowork users who want the briefing to run automatically every morning and land in their inbox. Includes a complete SKILL.md template you install, configure with your own email recipients, and schedule. Same full briefing, delivered daily.
+A setup guide for Claude Cowork users who want the briefing to run automatically every morning and land in their inbox. Includes a complete SKILL.md template you install, configure with your own email recipients, and schedule. Same full briefing, delivered daily. ChatGPT users can save the prompt as a [Custom GPT](https://help.openai.com/en/articles/custom-gpts) for one-click access; Gemini users can create a [Gem](https://gemini.google.com/gems).
 
 ---
 
@@ -53,7 +53,7 @@ The hostile media monitoring works best from **MP, mayoral, and regional level u
 **Option 1 — The Prompt (zero setup)**
 1. Open [the prompt file](green-party-counter-media-prompt.md)
 2. Copy the prompt block
-3. Paste it into a new conversation at [claude.ai](https://claude.ai)
+3. Paste it into any AI assistant with web search (Claude, ChatGPT, Gemini, Copilot, Perplexity)
 4. Press Enter
 
 **Option 2 — Cowork automation (15-minute setup)**
